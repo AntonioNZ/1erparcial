@@ -1,0 +1,28 @@
+body{
+    background:#683615;
+  }
+  div{
+    width:270px;
+    height:140px;
+    background:#75ee85;
+  padding:5px;
+  margin:10px;
+  border:px solid black;
+  position:absolute;
+  top:200px;
+  left:w00px; 
+  border-radius:00%;
+  }
+  
+  .hola{
+    width:80px;
+    height:70px;
+    background:#a15ae4;
+  padding:5px;
+  margin:10px;
+  border:px solid black;
+  position:absolute;
+  top:200px;
+  left:w00px; 
+  border-radius:00%;
+  }
